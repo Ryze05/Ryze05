@@ -227,6 +227,19 @@
           </tr>
         </table>
       </div>
+      <h3>AI projects</h3>
+      <div>
+        <h4>AI Math Assistant CLI</h4>
+        <table>
+          <tr>
+            <th>Repository</th>
+          </tr>
+          <tr>
+            <td>https://github.com/Ryze05/python_chatbot</td>
+          </tr>
+        </table>
+      </div>
+      
 
   <h2>CONTACT ME</h2>
   <ul>
